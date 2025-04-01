@@ -1,10 +1,11 @@
 # **JAVA ASSIGNMENT**
-# 02 : Type Casting
-# **<P>Let's Practice:Shape Transformation<P>**
-# **<P>Interactive Exercise:Shape Transformation in Java Objective<P>**
-# <p>**1 :** Define an initial shapeValue as a double.<P>
-# <P>**2 :** Transform shapeValue into different types (**int,long and float**).<P>
-# <p>**3 :** Display the transformed values dynamically.<P>
+# **02 Type Casting**
+## **<P>Let's Practice:Shape Transformation<P>**
+## **<P>Interactive Exercise:Shape Transformation in Java Objective<P>**
+# Exercise :
+# <p>1 . Define an initial shapeValue as a double.<P>
+# <P>2 . Transform shapeValue into different types (**int,long and float**).<P>
+# <p>3 . Display the transformed values dynamically.<P>
 ```
 
 public class AssignmentTwo {
@@ -20,3 +21,5 @@ public class AssignmentTwo {
     }
 }
 ```
+
+[githublink](https://github.com/Aromalpriyan/Assignment-2)
