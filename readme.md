@@ -22,4 +22,3 @@ public class AssignmentTwo {
 }
 ```
 
-[githublink](https://github.com/Aromalpriyan/Assignment-2)
